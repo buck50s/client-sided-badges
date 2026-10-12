@@ -1,0 +1,14 @@
+{
+  "name": "Client Side Badges",
+  "description": "Add official Discord badges to your own profile only. Client-side, fully toggleable.",
+  "authors": [
+    {
+      "name": "You",
+      "id": "YOUR_DISCORD_ID_HERE"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
+}
